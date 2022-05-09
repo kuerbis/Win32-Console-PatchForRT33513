@@ -3,7 +3,7 @@ package Win32::Console::PatchForRT33513;
 use strict;
 use warnings;
 
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 use Win32::Console qw( );
 
@@ -51,7 +51,7 @@ Win32::Console::PatchForRT33513 - Patch for RT33513.
 
 =head1 VERSION
 
-Version 0.002
+Version 0.003
 
 =cut
 
