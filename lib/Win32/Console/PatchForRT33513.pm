@@ -3,7 +3,7 @@ package Win32::Console::PatchForRT33513;
 use strict;
 use warnings;
 
-our $VERSION = '0.004';
+our $VERSION = '0.005';
 
 use Win32::Console qw( );
 
@@ -51,7 +51,7 @@ Win32::Console::PatchForRT33513 - Patch for RT33513.
 
 =head1 VERSION
 
-Version 0.004
+Version 0.005
 
 =cut
 
@@ -65,7 +65,7 @@ Version 0.004
 
 =head1 DESCRIPTION
 
-Patch for RT#33513.
+Patch for L<RT33513|https://rt.cpan.org/Public/Bug/Display.html?id=33513>.
 
 Link to the L<patch|https://rt.cpan.org/Public/Bug/Display.html?id=33513#txn-577224>.
 
