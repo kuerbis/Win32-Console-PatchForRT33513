@@ -1,6 +1,9 @@
 Revision history for Win32::Console::PatchForRT33513
 
 
+0.008   2022-05-09
+        - Update MANIFEST.
+
 0.007   2022-05-09
         - Replace MYMETA with META.
 
