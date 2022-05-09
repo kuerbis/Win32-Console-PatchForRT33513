@@ -3,7 +3,7 @@ package Win32::Console::PatchForRT33513;
 use strict;
 use warnings;
 
-our $VERSION = '0.005';
+our $VERSION = '0.006';
 
 use Win32::Console qw( );
 
@@ -51,7 +51,7 @@ Win32::Console::PatchForRT33513 - Patch for RT33513.
 
 =head1 VERSION
 
-Version 0.005
+Version 0.006
 
 =cut
 
@@ -73,7 +73,7 @@ The code for this module is from this L<stackoverflow answer|https://stackoverfl
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2018-2021 Matthäus Kiem.
+Copyright 2018-2022 Matthäus Kiem.
 
 This library is free software; you can redistribute it and/or modify it under the same terms as Perl 5.10.0. For
 details, see the full text of the licenses in the file LICENSE.
